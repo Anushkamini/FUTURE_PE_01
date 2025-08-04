@@ -1,0 +1,26 @@
+Prompt 1 (YouTube title idea) :
+
+Suggest 5 engaging YouTube titles for a book summary video based on *Ikigai* by Héctor García and Francesc Miralles. Keep it short, curious, and searchable.
+
+Prompt 2 (full script in 800-1500 words) :
+
+ Write a YouTube video script (1000–1200 words) summarizing the key insights from the book *Ikigai* by Héctor García and Francesc Miralles. Begin with a hook, then cover the core concepts like purpose, longevity, flow, and daily habits. End with a call to action.
+You can organize it like this:
+
+Intro (hook)
+
+Main content(benefits)
+
+Conclusion (call to action, like/subscribe)
+
+Prompt 3(Thumbnail Text and Visual Ideas) :
+
+Give me 3 short, catchy thumbnail texts and visual ideas for a YouTube video about the book *Ikigai*. The visual should reflect Japanese culture, peace, or purpose.
+
+
+ Prompt 4 (Thumbnail Image):
+
+Generate an image of a serene Japanese garden at sunrise with a person meditating under a cherry blossom tree. The mood should be peaceful, reflective, and symbolic of purpose and longevity.
+Soft pink petals falling, with Mount Fuji in the background.
+Use minimalist colors — calm blues, greens, and soft pinks.
+
